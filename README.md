@@ -17,7 +17,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 11</b> (24H2)
 
 - <h2>Post-Install Configuration Objectives</h2>
-
 - Log into the Admin Panel via http://localhost/osTicket/scp/login.php and direct users to the client portal at http://localhost/osTicket.
 - In the Admin Panel, configure Roles, Departments, and Teams to manage agent permissions, visibility, and cross-department collaboration.
 - Adjust User Settings to require registration before users can create tickets by unchecking the "unregistered users" option.
