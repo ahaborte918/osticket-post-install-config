@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-In this project we will focus on the post-installation configuration of osTicket, including setting up roles, departments, help topics, and user permissions to optimize workflow management. It demonstrates how to customize the ticketing system for efficient IT support and customer service operations..<br />
+In this project we will focus on the post-installation configuration of osTicket, including setting up roles, departments, help topics, and user permissions to optimize workflow management. It demonstrates how to customize the ticketing system for efficient IT support and customer service operations.<br />
 
 
 <h2>Environments and Technologies Used</h2>
