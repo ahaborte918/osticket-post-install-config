@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+In this project we will focus on the post-installation configuration of osTicket, including setting up roles, departments, help topics, and user permissions to optimize workflow management. It demonstrates how to customize the ticketing system for efficient IT support and customer service operations..<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -68,3 +68,4 @@ Then go to Manage > Help Topics to create categories like Password Reset or Busi
 <img width="620" height="385" alt="osTicket Config 15" src="https://github.com/user-attachments/assets/6963a541-1c96-4080-a44d-234f52dea4c2" />
 </p>
 <h2>Final Thoughts</h2>
+This project enhanced my understanding of customizing osTicket beyond installation by configuring roles, departments, and workflows to streamline support operations. It reinforced the value of tailoring help desk systems to meet organizational needs for efficiency and scalability.
