@@ -49,7 +49,7 @@ To control who can submit support tickets, go to the Admin Panel, then Settings 
 <img width="572" height="360" alt="osTicket Config 6" src="https://github.com/user-attachments/assets/1ea55e59-d997-4ba3-8986-900101d9248a" />
 </p>
 <br />
-In the Admin Panel, go to Agents > Add New to create agent accounts like Kim (assigned to SysAdmins) and Ron (assigned to Support). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Karen and Ken who will submit support requests.
+In the Admin Panel, go to Agents > Add New to create agent accounts like Kim (assigned to SysAdmins) and Ron (not pictured below, but was assigned to Support in osTicket). Agents are staff members who manage and respond to tickets. To add end users (customers), switch to the Agent Panel, go to Users > Add New, and create profiles for users like Karen and Ken who will submit support requests.
 </p>
 <img width="1139" height="746" alt="osTicket Config 7" src="https://github.com/user-attachments/assets/054882e5-057f-4cc9-8cb9-e583c4fc0feb" />
 <img width="1145" height="347" alt="osTicket Config 8" src="https://github.com/user-attachments/assets/0e4de517-13f5-4529-adde-9cb05dea0dc2" />
