@@ -28,7 +28,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 After installing osTicket, administrators and support agents log in through the Admin Panel at http://localhost/osTicket/scp/login.php, which provides access to system settings and ticket management tools. This is where agents can configure roles, departments, SLAs, and respond to incoming tickets. End users, on the other hand, submit and track their support requests through the client portal at http://localhost/osTicket.
 </p>
-<br />
-<img
+[THIS IS THE ADMIN PAGE]
+<img width="1797" height="868" alt="osTicket Config 1" src="https://github.com/user-attachments/assets/19a06f5a-4970-4be6-9f9d-26260a30b469" />
+</p>
+[THIS IS THE AGENT PAGE]
+<img width="1866" height="847" alt="osTicket Config 2" src="https://github.com/user-attachments/assets/8ec1f3c9-a6c4-43b9-9a2c-a04dc87d9477" />
 
-<img
