@@ -66,3 +66,5 @@ Then go to Manage > Help Topics to create categories like Password Reset or Busi
 <img width="1113" height="474" alt="osTicket Config 13" src="https://github.com/user-attachments/assets/90586cad-d9bd-47d3-8747-c9277a2d16e1" />
 <img width="1069" height="460" alt="osTicket Config 14" src="https://github.com/user-attachments/assets/655bc722-16ab-4f3e-b25f-abe5e1600fd9" />
 <img width="620" height="385" alt="osTicket Config 15" src="https://github.com/user-attachments/assets/6963a541-1c96-4080-a44d-234f52dea4c2" />
+</p>
+<h2>Final Thoughts</h2>
