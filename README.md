@@ -17,6 +17,7 @@ In this project we will focus on the post-installation configuration of osTicket
 - Windows 11</b> (24H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+
 - STEP 1 - Log into the Admin Panel via http://localhost/osTicket/scp/login.php and direct users to the client portal at http://localhost/osTicket.
 - STEP 2 - In the Admin Panel, configure Roles, Departments, and Teams to manage agent permissions, visibility, and cross-department collaboration.
 - STEP 3 - Adjust User Settings to require registration before users can create tickets by unchecking the "unregistered users" option.
