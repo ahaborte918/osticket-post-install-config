@@ -16,12 +16,12 @@ In this project we will focus on the post-installation configuration of osTicket
 
 - Windows 11</b> (24H2)
 
-- <h2>Post-Install Configuration Objectives</h2>
-- Log into the Admin Panel via http://localhost/osTicket/scp/login.php and direct users to the client portal at http://localhost/osTicket.
-- In the Admin Panel, configure Roles, Departments, and Teams to manage agent permissions, visibility, and cross-department collaboration.
-- Adjust User Settings to require registration before users can create tickets by unchecking the "unregistered users" option.
-- Add Agents under the Admin Panel (e.g., Kim Possible in SysAdmins, Ron Stoppable in Support) and create Users under the Agent Panel (e.g., Karen).
-- Set up SLA plans and define Help Topics to organize ticket types and response expectations based on issue severity.
+<h2>Post-Install Configuration Objectives</h2>
+- STEP 1 - Log into the Admin Panel via http://localhost/osTicket/scp/login.php and direct users to the client portal at http://localhost/osTicket.
+- STEP 2 - In the Admin Panel, configure Roles, Departments, and Teams to manage agent permissions, visibility, and cross-department collaboration.
+- STEP 3 - Adjust User Settings to require registration before users can create tickets by unchecking the "unregistered users" option.
+- STEP 4 - Add Agents under the Admin Panel (e.g., Kim Possible in SysAdmins, Ron Stoppable in Support) and create Users under the Agent Panel (e.g., Karen).
+- STEP 5 - Set up SLA plans and define Help Topics to organize ticket types and response expectations based on issue severity.
 
 <h2>Configuration Steps</h2>
 
@@ -38,9 +38,7 @@ After installing osTicket, administrators and support agents log in through the 
 In the Admin Panel, go to Agents > Roles to create roles like “Supreme Admin” that define what actions agents can perform. Next, navigate to Agents > Departments to organize agents into groups such as “SysAdmins” or “Support,” which control ticket visibility. Then, under Agents > Teams, create teams like “Online Banking” by combining agents from different departments to collaborate on specific types of issues.
 </p>
 <img width="1135" height="575" alt="osTicket Config 3" src="https://github.com/user-attachments/assets/fe5f06e3-b3b8-443a-8e8e-ce30ec4328a2" />
-</p>
 <img width="572" height="178" alt="osTicket Config 4" src="https://github.com/user-attachments/assets/cef18504-e180-450b-82f9-5fd19ae6c773" />
-</p>
 <img width="1129" height="715" alt="osTicket Config 5" src="https://github.com/user-attachments/assets/14091a96-f688-42af-9817-ed6c39283251" />
 </p>
 <br />
@@ -58,21 +56,17 @@ In the Admin Panel, go to Agents > Add New to create agent accounts like Kim (as
 In the Admin Panel, navigate to Manage > SLA to create Service Level Agreements such as Sev-A, Sev-B, and Sev-C, each with different response time expectations and schedules. These SLAs help prioritize tickets based on urgency and ensure timely support. 
 </p>
 <img width="954" height="434" alt="osTicket Config 9" src="https://github.com/user-attachments/assets/825ef413-7f8e-462f-b4d7-9d7001dcf107" />
-</p>
 <img width="1136" height="480" alt="osTicket Config 10" src="https://github.com/user-attachments/assets/c433e135-acc1-498d-92a7-7d124e1e07cb" />
-</p>
 <img width="1149" height="468" alt="osTicket Config 11" src="https://github.com/user-attachments/assets/febc346f-7736-4687-9f11-e8049f443386" />
-</p>
 <img width="571" height="193" alt="osTicket Config 12" src="https://github.com/user-attachments/assets/59e1049f-877b-49e8-98aa-d55cc186ecd0" />
 </p>
 <br />
 Once we are finish with the SLAs, head to Manage > Help Topics to create help topic categories like Password Reset or Business Critical Outage, which users select when submitting tickets to streamline routing and handling.
 </p>
 <img width="1113" height="426" alt="osTicket Config 13" src="https://github.com/user-attachments/assets/f7e56828-1570-4db5-a725-102dd6b752fb" />
-</p>
 <img width="1069" height="430" alt="osTicket Config 14" src="https://github.com/user-attachments/assets/5322bbf1-5e9b-4bcf-b7f9-fd54705880ee" />
-</p>
 <img width="620" height="385" alt="osTicket Config 15" src="https://github.com/user-attachments/assets/6963a541-1c96-4080-a44d-234f52dea4c2" />
 </p>
+
 <h2>Final Thoughts</h2>
 This project enhanced my understanding of customizing osTicket beyond installation by configuring roles, departments, and workflows to streamline support operations. It reinforced the value of tailoring help desk systems to meet organizational needs for efficiency and scalability.
