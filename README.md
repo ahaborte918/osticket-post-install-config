@@ -67,6 +67,6 @@ Once we are finish with the SLAs, head to Manage > Help Topics to create help to
 <img width="1069" height="430" alt="osTicket Config 14" src="https://github.com/user-attachments/assets/5322bbf1-5e9b-4bcf-b7f9-fd54705880ee" />
 <img width="620" height="385" alt="osTicket Config 15" src="https://github.com/user-attachments/assets/6963a541-1c96-4080-a44d-234f52dea4c2" />
 </p>
-
+</p>
 <h2>Final Thoughts</h2>
 This project enhanced my understanding of customizing osTicket beyond installation by configuring roles, departments, and workflows to streamline support operations. It reinforced the value of tailoring help desk systems to meet organizational needs for efficiency and scalability.
